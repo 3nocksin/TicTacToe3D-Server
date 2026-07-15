@@ -1,0 +1,26 @@
+ARCHIVOS QUE DEBES SUBIR A GITHUB
+=================================
+
+1. Extrae este ZIP.
+2. Abre la carpeta extraída.
+3. En GitHub entra al repositorio conectado con Render.
+4. Pulsa Add file > Upload files.
+5. Selecciona TODO lo que está DENTRO de esta carpeta:
+
+   server
+   shared
+   .gitignore
+   .python-version
+   README.md
+   INSTRUCCIONES.txt
+   render.yaml
+   requirements.txt
+   run_server.py
+
+6. No subas el ZIP como un solo archivo. GitHub no lo descomprime.
+7. En el mensaje escribe: Agregar servidor online para Render
+8. Selecciona Commit directly to the main branch.
+9. Pulsa Commit changes.
+
+En la página principal del repositorio debes ver render.yaml,
+requirements.txt, server y shared directamente, sin otra carpeta envolviéndolos.
